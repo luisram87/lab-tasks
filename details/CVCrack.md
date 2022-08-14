@@ -5,5 +5,6 @@ ComputerVision es una biblioteca OpenSource de Vision Computacional (CV )intelig
 
 ## Actividad
 
-- Instalar [Anaconda](https://www.anaconda.com) para usar Jupyper y explorar el bibliotega de ComputerVision [openCV](https://opencv.org)
-- Buscar guías en  [Youtube](https://www.youtube.com)
+- Instalar [Anaconda](https://www.anaconda.com) para usar Jupyper, TensorFlow y ComputerVision [openCV](https://opencv.org)
+- Realizar el acopio de fotografías
+- Entrenar el modelo
