@@ -14,12 +14,16 @@ by Luis Cruz
   - Video editions [OpenShot](https://www.openshot.org)
 
 2. Developmening projects
-- ComputerVision Applied to Crack detections [(link)](https://luisram87.github.io/lab-tasks/details/CVCrack)
+- ComputerVision Applied to Crack detections. [See More](https://luisram87.github.io/lab-tasks/details/CVCrack)
 - Computational Clustering Applied to Built Heritage of Queretaro
 - Seismic Risk Assessment of Dwelling with CENAPRED Guide: Computational Apprach
 - Natural Ventilation Simulation
-- Architectural As-Built Plans of Tecali, Puebla.
+- As-Built Architectural Plans
+    - Tecali, Puebla
+    - Cuautinchan, Puebla
 - Virtual Reality application to Risk Mitigation
+- Thermography Apply to Tree Health Monitoring
+-
 4. IPN ESIA TEC Projects 
 - Settlement Monitoring of Government Building
   - RPAS Applications
