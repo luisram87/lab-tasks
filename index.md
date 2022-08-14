@@ -28,7 +28,7 @@ by _Luis Carlos Cruz-Ramírez_
   - Terrestrial LiDAR applications
 - Acoustic Assessment of Mayor Auditorium
 - Geometric analysis ESIA Mural
-- Geometric analysis of Café
+- Geometric analysis of School Cafeteria
 - Flood Risk Assessment in IPN ESIA TEC
 
 
