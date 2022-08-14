@@ -5,7 +5,7 @@ by Luis Cruz
 ## To do list
 
 1. Guides and manuals
-- [Introduction to GitHub]([.](https://luisram87.github.io/lab-tasks/details/github)
+- [Introduction to GitHub](https://luisram87.github.io/lab-tasks/details/github)
 - Drawing and manipulations of Point Cloud in AutoCAD
 - Drawing and manipulations of Point Cloud in Revit
 - Open Sources applications
