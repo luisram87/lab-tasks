@@ -1,8 +1,8 @@
-## Bienvenidos al GitHub Lab-Tasks
+## Bienvenidos sitio de tareas pendientes del laboratorio
 
 by Luis Cruz
 
-## Tareas pendientes
+## Lista de tareas pendientes
 
 
 You can use the [editor on GitHub](https://github.com/luisram87/lab-tasks/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
