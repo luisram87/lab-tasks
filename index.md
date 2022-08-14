@@ -14,13 +14,14 @@ by _Luis Carlos Cruz-Ramírez_
   - Video editions [OpenShot](https://www.openshot.org)
 
 2. Developmening projects
-- ComputerVision Applied to Crack detections. [See More](https://luisram87.github.io/lab-tasks/details/CVCrack)
-- Seismic Risk Assessment of Dwelling with CENAPRED Guide: Computational Apprach
-- Natural Ventilation Simulation
 - As-Built Architectural Plans: (a) Tecali, Puebla; (b) Cuautinchan, Puebla.
-- Virtual Reality application to Risk Mitigation
+- - Virtual Reality application to Risk Mitigation
+- ComputerVision Applied to Crack detections. [See More](https://luisram87.github.io/lab-tasks/details/CVCrack)
+- Seismic Risk Assessment of Dwelling with CENAPRED Guide: Computational Application Dev
+- Natural Ventilation Simulation with Open Computer Fluid Dynamic (CFD)
 - Thermography Apply to Tree Health Monitoring
 - Computational Clustering Applied to Built Heritage of Queretaro
+- Digital Reconstruction of Built Heritage of XVI Century
 3. IPN ESIA TEC Projects 
 - Settlement Monitoring of Government Building
   - RPAS Applications
