@@ -16,7 +16,7 @@ by Luis Cruz
 2. Developmening projects
 - ComputerVision Applied to Crack detections [(link)](./details/CVCrack)
 - Computational Clustering Applied to Built Heritage of Queretaro
-- Seismic Risk Assessment of Dwelling with CENAPRED Guide: Computational tools identification
+- Seismic Risk Assessment of Dwelling with CENAPRED Guide: Computational Apprach
 - Natural Ventilation Simulation
 - Architectural As-Built Plans of Tecali, Puebla.
 - 
