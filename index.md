@@ -30,7 +30,5 @@ by Luis Cruz
 - Flood Risk Assessment in IPN ESIA TEC
 
 
-
-
 ### Contacto
 [observatorio.ipnesiatec@gmail.com](mailto:observatorio.ipnesiatec@gmail.com)
