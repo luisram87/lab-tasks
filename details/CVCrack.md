@@ -8,3 +8,5 @@ ComputerVision es una biblioteca OpenSource de Vision Computacional (CV )intelig
 - Instalar [Anaconda](https://www.anaconda.com) para usar Jupyper, TensorFlow y ComputerVision [openCV](https://opencv.org)
 - Realizar el acopio de fotografías
 - Entrenar el modelo
+
+Go To [Home](https://luisram87.github.io/lab-tasks/)
