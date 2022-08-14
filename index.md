@@ -2,15 +2,15 @@
 
 by Luis Cruz
 
-## Lista de tareas pendientes
+## To do list
 
-1. Guías y Manuales
-- Introducción a GitHub
-  - Revisar los siguientes sitios:
+1. Guides and manuals
+- Introduction to GitHub
+  - Please check this links:
     - [Github-oficial](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- Dibujo y manipulación de nubes de puntos en Autocad
-- Dibujo y manipulación de nubes de puntos en Revit
-- Guia de uso de MeshLab
+- Drawing and manipulations of Point Cloud in AutoCAD
+- Drawing and manipulations of Point Cloud in Revit
+- MeshLab Friendly guide
 
 2. Developmening projects
 - ComputerVision Applied to Crack detections
@@ -20,13 +20,13 @@ by Luis Cruz
 - Architectural As-Built Plans of Tecali, Puebla.
 - 
 4. IPN ESIA TEC Projects 
-- Monitoreo de asentamientos en Edificio de Gobierno
-  - Aplicaciones de RPAS
-  - Aplicaciones LiDAR terrestre
-- Valoración acústica del Auditorio mayor
-- Estudio geométrico Mural
-- Análisis geométrico de cafetería
-- Riesgo de inundaciones en complejo IPN ESIA TEC
+- Settlement Monitoring of Government Building
+  - RPAS Applications
+  - Terrestrial LiDAR applications
+- Acoustic Assessment of Mayor Auditorium
+- Geometric analysis ESIA Mural
+- Geometric analysis of Café
+- Flood Risk Assessment in IPN ESIA TEC
 
 
 
