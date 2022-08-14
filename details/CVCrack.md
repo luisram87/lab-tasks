@@ -9,4 +9,4 @@ ComputerVision es una biblioteca OpenSource de Vision Computacional (CV )intelig
 - Realizar el acopio de fotografías
 - Entrenar el modelo
 
-Go To [Home](https://luisram87.github.io/lab-tasks/)
+Go [Home](https://luisram87.github.io/lab-tasks/)
