@@ -15,7 +15,7 @@ by _Luis Carlos Cruz-Ramírez_
 
 2. Developmening projects
 - As-Built Architectural Plans: (a) Tecali, Puebla; (b) Cuautinchan, Puebla.
-- - Virtual Reality application to Risk Mitigation
+- Virtual Reality application to Risk Mitigation
 - ComputerVision Applied to Crack detections. [See More](https://luisram87.github.io/lab-tasks/details/CVCrack)
 - Seismic Risk Assessment of Dwelling with CENAPRED Guide: Computational Application Dev
 - Natural Ventilation Simulation with Open Computer Fluid Dynamic (CFD)
