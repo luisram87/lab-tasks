@@ -18,9 +18,7 @@ by _Luis Carlos Cruz-Ramírez_
 - Computational Clustering Applied to Built Heritage of Queretaro
 - Seismic Risk Assessment of Dwelling with CENAPRED Guide: Computational Apprach
 - Natural Ventilation Simulation
-- As-Built Architectural Plans
-    - Tecali, Puebla
-    - Cuautinchan, Puebla
+- As-Built Architectural Plans: (a) Tecali, Puebla; (b) Cuautinchan, Puebla.
 - Virtual Reality application to Risk Mitigation
 - Thermography Apply to Tree Health Monitoring
 4. IPN ESIA TEC Projects 
