@@ -7,5 +7,7 @@ Elaborar una guia básica de uso de GitHub para comunicación de proyectos de in
 - Incluir sintaxsis GitHub
 - Uso de VSCode
 - Comandos básicos
+- Identificar niveles de configuración y clonar proyectos ya existentes
+  - [Guia básica Oficial](https://github.com/academiacoder/gitgithub-guia-rapida)
 - Revisar los siguientes enlaces:
   -[Github-oficial](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
