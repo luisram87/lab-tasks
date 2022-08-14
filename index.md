@@ -19,7 +19,7 @@ by Luis Cruz
 - Seismic Risk Assessment of Dwelling with CENAPRED Guide: Computational Apprach
 - Natural Ventilation Simulation
 - Architectural As-Built Plans of Tecali, Puebla.
-- 
+- Virtual Reality application to Risk Mitigation
 4. IPN ESIA TEC Projects 
 - Settlement Monitoring of Government Building
   - RPAS Applications
