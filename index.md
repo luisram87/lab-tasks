@@ -9,12 +9,12 @@ by Luis Cruz
 - Drawing and manipulations of Point Cloud in AutoCAD
 - Drawing and manipulations of Point Cloud in Revit
 - Open Sources applications
-  - MeshLab Friendly guide
-  - Inkscape
-  - Video editions
+  - [MeshLab](https://www.meshlab.net) Friendly guide
+  - [Inkscape](https://inkscape.org)
+  - Video editions [OpenShot](https://www.openshot.org)
 
 2. Developmening projects
-- ComputerVision Applied to Crack detections
+- ComputerVision Applied to Crack detections [link](./details/CVCrack)
 - Computational Clustering Applied to Built Heritage of Queretaro
 - Seismic Risk Assessment of Dwelling with CENAPRED Guide: Computational tools identification
 - Natural Ventilation Simulation
