@@ -1,7 +1,7 @@
 # Introducción a GitHub
 
 
-## Reseumen
+## Resumen
 
 Elaborar una guia básica de uso de GitHub para comunicación de proyectos de investigación.
 - Incluir sintaxsis GitHub
