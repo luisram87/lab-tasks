@@ -19,7 +19,7 @@ by Luis Cruz
 - Natural Ventilation Simulation
 - Architectural As-Built Plans of Tecali, Puebla.
 - 
-4. Proyectos IPN ESIA TEC en desarrollo
+4. IPN ESIA TEC Projects 
 - Monitoreo de asentamientos en Edificio de Gobierno
   - Aplicaciones de RPAS
   - Aplicaciones LiDAR terrestre
