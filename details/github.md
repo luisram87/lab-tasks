@@ -3,7 +3,7 @@
 
 ## Actividad
 
-Elaborar una guia básica de uso de GitHub para comunicación de proyectos de investigación.
+Elaborar una guía básica de uso de GitHub para comunicación de proyectos de investigación.
 - Explicar como crear un cuenta
 - Creación de repositorios
 - Activar enlace en opciones "page".
