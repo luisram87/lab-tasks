@@ -27,7 +27,7 @@ by _Luis Carlos Cruz-Ramírez_
 - Settlement Monitoring of Government Building
   - RPAS Applications
   - Terrestrial LiDAR applications
-- Acoustic Assessment of Mayor Auditorium
+- Acoustic Assessment of Main Auditorium
 - Geometric analysis ESIA Mural
 - Geometric analysis of School Cafeteria
 - Flood Risk Assessment in IPN ESIA TEC
