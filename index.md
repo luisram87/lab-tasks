@@ -1,6 +1,6 @@
 ## Wellcome to Lab-Task site
 
-by Luis Cruz
+by _Luis Carlos Cruz-Ramírez_
 
 ## To do list
 
