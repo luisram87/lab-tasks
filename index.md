@@ -1,4 +1,4 @@
-## Bienvenidos sitio de tareas pendientes del laboratorio
+## Wellcome to Lab-Task site
 
 by Luis Cruz
 
