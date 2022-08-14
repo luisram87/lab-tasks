@@ -5,7 +5,7 @@ by Luis Cruz
 ## To do list
 
 1. Guides and manuals
-- [Introduction to GitHub](./details/github)
+- [Introduction to GitHub]([.](https://luisram87.github.io/lab-tasks/details/github)
 - Drawing and manipulations of Point Cloud in AutoCAD
 - Drawing and manipulations of Point Cloud in Revit
 - Open Sources applications
@@ -14,7 +14,7 @@ by Luis Cruz
   - Video editions [OpenShot](https://www.openshot.org)
 
 2. Developmening projects
-- ComputerVision Applied to Crack detections [(link)](./details/CVCrack)
+- ComputerVision Applied to Crack detections [(link)]([./details/CVCrack](https://luisram87.github.io/lab-tasks/details/CVCrack))
 - Computational Clustering Applied to Built Heritage of Queretaro
 - Seismic Risk Assessment of Dwelling with CENAPRED Guide: Computational Apprach
 - Natural Ventilation Simulation
