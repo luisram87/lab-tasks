@@ -23,7 +23,6 @@ by Luis Cruz
     - Cuautinchan, Puebla
 - Virtual Reality application to Risk Mitigation
 - Thermography Apply to Tree Health Monitoring
--
 4. IPN ESIA TEC Projects 
 - Settlement Monitoring of Government Building
   - RPAS Applications
