@@ -13,3 +13,4 @@ Elaborar una guia básica de uso de GitHub para comunicación de proyectos de in
   - [Github-oficial](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - Aplicar plantillas
 
+Go to [Home](https://luisram87.github.io/lab-tasks/)
