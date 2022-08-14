@@ -5,7 +5,7 @@
 
 Elaborar una guia básica de uso de GitHub para comunicación de proyectos de investigación.
 - Incluir sintaxsis [Markdown](https://www.markdownguide.org/basic-syntax/)
-- Uso de VSCode y comando báiscos
+- Uso de [VSCode](https://code.visualstudio.com) y comando báiscos
 - Comandos básicos
 - Aplicar plantillas
 - Identificar niveles de configuración y clonar proyectos ya existentes
