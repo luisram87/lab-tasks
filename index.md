@@ -1,4 +1,4 @@
-## Wellcome to Lab-Task site
+## Welcome to Lab-Task site
 
 by _Luis Carlos Cruz-Ramírez_
 
