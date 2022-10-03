@@ -55,6 +55,8 @@ by _Luis Carlos Cruz-Ramírez_
 - Continuar prácticas de MATLAB
 - Seismic Risk Assessment of Dwelling with CENAPRED Guide: Computational Application Dev
 
+-----------------------------------
+-----------------------------------
 ## To do list
 
 1. Guides and manuals
