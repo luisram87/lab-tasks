@@ -6,23 +6,26 @@ by _Luis Carlos Cruz-Ramírez_
 
 1. Guides and manuals
 - [Introduction to GitHub](https://luisram87.github.io/lab-tasks/details/github)
-- Drawing and manipulations of Point Cloud in AutoCAD
-- Drawing and manipulations of Point Cloud in Revit
+- Drawing and manipulations of Point Cloud in AutoCAD (Adrian)
+- Drawing and manipulations of Point Cloud in Revit   (Monse)
 - Open Sources applications friendly guide
   - [MeshLab](https://www.meshlab.net) 
   - [Inkscape](https://inkscape.org)
   - Video editions [OpenShot](https://www.openshot.org)
 
-2. Developmening projects
-- As-Built Architectural Plans: (a) Tecali, Puebla; (b) Cuautinchan, Puebla.
-- Virtual Reality application to Risk Mitigation
-- Micro-scale Flood Risk Assessment in Mexico City.  
-- ComputerVision Applied to Crack detections. [See More](https://luisram87.github.io/lab-tasks/details/CVCrack)
+2. Developing projects
+- As-Built Architectural Plans: 
+  -(a) Tecali, Puebla. (Francisco)
+  -(b) Cuautinchan, Puebla.
+- ComputerVision Applied to Crack detections. [See More](https://luisram87.github.io/lab-tasks/details/CVCrack).
+- FEM Literature Review (Claudia)
 - Seismic Risk Assessment of Dwelling with CENAPRED Guide: Computational Application Dev
 - Natural Ventilation Simulation with Open Computer Fluid Dynamic (CFD)
-- Thermography Apply to Tree Health Monitoring
+- Thermography Applied to Tree Health Monitoring (Shendell)
 - Computational Clustering Applied to Built Heritage of Queretaro
 - Digital Reconstruction of Built Heritage of XVI Century
+- Micro-scale Flood Risk Assessment in Mexico City. (Jessica and Omar)
+- Virtual Reality application to Risk Mitigation
 3. IPN ESIA TEC Projects 
 - Settlement Monitoring of Government Building
   - RPAS Applications
