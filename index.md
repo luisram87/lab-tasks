@@ -3,21 +3,17 @@
 by _Luis Carlos Cruz-Ramírez_
 
 ## Pablo
-- DJI simulator Fly (Pablo)
 - Aplicar texturas de Tecali desde fotos réflex
 
 ## Monse
-- Guía de uso manipulación y dibujo de nube de puntos en Revit   (Monse)
+- Guía de uso manipulación y dibujo de nube de puntos en Revit
 - Despiece de bóveda de crucería Cuautinchán
 
 ## Adrian
-- Diagramar (crear storyboard) de documental registro de Edificio Regina.
 - Infrared Thermography Literature Review 
 - Drawing and manipulations of Point Cloud in AutoCAD
 
 ## Valentín
-- Registro de Nube de puntos Cuautinchán
-- Registro de nube de puntos de Laboratorio de Mecánica de suelos
 - Registro de nube de puntos de Laboratorio de Estructuras
 - Registro de nube aerea y nube terrestre de ESIA
 
@@ -27,13 +23,14 @@ by _Luis Carlos Cruz-Ramírez_
 
 ## Liz
 - Registro de nube de puntos de cafetería (interior - exterior).
+- Registro de nube de puntos de Laboratorio de Mecánica de suelos
 - Deducir geometría de bóveda octapartita de Cuautinchán
 - Base de datos para clustering analysis
   - Alcaldía Miguel Hidalgo
   - Alcaldía Iztapalapa
 
 ## Francisco
-- Continuar Sistema de información geográfico (SIG) de Cuautinchán
+- Sistema de información geográfico (SIG) de Cuautinchán
 - Continuar prácticas de Flood Risk Analysis QGIS-HECRAS
 - Crear planos as-built de Tecali.
 
@@ -47,8 +44,8 @@ by _Luis Carlos Cruz-Ramírez_
 
 
 ## TEAM Flood Risk (Francisco, Cinthia, Jessica y Omar)
-- Continuar prácticas de Flood Risk Analysis QGIS-HECRAS
-- Pendiente la lista de colonias en CDMX
+- Flood Risk Analysis QGIS-HECRAS
+- Lista de colonias en CDMX
 - Micro-scale Flood Risk Assessment in Mexico City.
 
 ## TEAM MATLAB (Cinthia, Aylen y Claudia)
