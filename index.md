@@ -2,8 +2,10 @@
 
 by _Luis Carlos Cruz-Ramírez_
 
-## Pablo
-- Aplicar texturas de Tecali desde fotos réflex
+## Alvaro
+- Tlalmanalco limpieza de nube y elaboración de proyecciones
+- Nube de puntos de Regina 143
+- Rendering Blender 3D
 
 ## Monse
 - Guía de uso manipulación y dibujo de nube de puntos en Revit
@@ -16,10 +18,6 @@ by _Luis Carlos Cruz-Ramírez_
 ## Valentín
 - Registro de nube de puntos de Laboratorio de Estructuras
 - Registro de nube aerea y nube terrestre de ESIA
-
-## Shendell
-- Analisis de la salud de los arboles con uso de termografía terrestre.
-- Thermography Applied to Tree Health Monitoring (Shendell)
 
 ## Liz
 - Registro de nube de puntos de cafetería (interior - exterior).
