@@ -16,9 +16,9 @@ Para el día lunes 26 de febrero 2024, necesito que cada integrante del laborato
 ## 1. Research Projects
 ### LABORATORY RESEARCH PROJECTS
 - Deducir geometría de bóveda octapartita de Cuautinchán  (Proyecto SAPPI Dr. Luis Carlos Cruz-Ramírez)
-- ComputerVision Applied to Crack detections. [See More](https://luisram87.github.io/lab-tasks/details/CVCrack).
-- Base de datos para clustering analysis Alcaldía Iztapalapa
-- Seismic Risk Assessment of Dwelling with CENAPRED Guide: Computational Application Dev
+- ComputerVision Applied to Crack detections. [See More](https://luisram87.github.io/lab-tasks/details/CVCrack). (Proyecto Laboratorio Dr. Luis Carlos Cruz-Ramírez)
+- Base de datos para clustering analysis Alcaldía Iztapalapa. 
+- Seismic Risk Assessment of Dwelling with CENAPRED Guide: Computational Application Dev.
 - Flood Risk Assessment in IPN ESIA TEC
 - Sistema de información geográfico (SIG) de Cuautinchán (Colaboración con proyecto SAPPI DR. Milton Montejano Castillo)
   
@@ -58,27 +58,27 @@ Para el día lunes 26 de febrero 2024, necesito que cada integrante del laborato
 
 # Actividades asignadas
 
-## Emilio
+## Emilio Anaya
 - Seguimiento a la web IPN ESIA TEC (Proyecto SAPPI Mtro. Ricardo Lozano-Gálvez) (**Priority**)
 - JARVIS Virtual Assistant applied to architecture (Proyecto Laboratorio Dr. Luis Carlos Cruz-Ramírez)
 
-## María Fernanda
+## María Fernanda Ocañana
 - Crear contenido de divulgación diario para IG.
 - Crear contenido para la web (Colaboración a Emilio)
 
 ## Adal Esquivel
 - Generar contenido para impresión 3D con PLA  (Proyecto SAPPI Dr. Luis Carlos Cruz-Ramírez)
 
-## Diego
+## Diego Isla
 - Por confirmar: Registro de nubes de puntos de Ex-teresa (Proyecto SAPPI Mtro. Ricardo Lozano-Gálvez)
 
-## Israel
+## Israel Chacón
 - Por asignar
 
-## Marco 
+## Marco Ruiz
 -Por asignar
 
-## Monse
+## Monserrat García
 - Proyección de planos en CAD de Ex-teresa desde PDF (Proyecto SAPPI Mtro. Ricardo Lozano-Gálvez)
 
 ## Shendell Cruz
@@ -88,14 +88,24 @@ Para el día lunes 26 de febrero 2024, necesito que cada integrante del laborato
 - Reporte de investigación: Aplicación del diseño paramétrico para el diseño de cubiertas de bóvedas colapasadas. (Proyecto SAPPI 2023 Dr. Luis Carlos Cruz-Ramírez)
 - **Urge que te des de alta en el sistema.**
  
-## Valentín
+## Valentín Uribe
 - Reporte de investigación: Las soluciones a los problemas comunes identificados en el registro de nube de puntos. (Proyecto SAPPI 2023 Dr. Luis Carlos Cruz-Ramírez)
  
-## Cinthia
+## Cinthia Martínez
 - Reporte de investigación: Clúster analysis applied to facades classification of MH. (Proyecto SAPPI 2023 Dr. Luis Carlos Cruz-Ramírez)
+
+## Miguel Rosas
+- Indicar lista de necesidades para el coloquio de estudiantes del programa Maestría en Ciencias en Arquitectura y Urbanismo IPN ESIA TEC
+- Acabar su tesis de maestría.
+
+## Eduardo
+- Indicar lista de necesidades para el coloquio de estudiantes del programa Maestría en Ciencias en Arquitectura y Urbanismo IPN ESIA TEC
+- Acabar su tesis de maestría.
 
 ## TEAM Code Developer
 - Indicar quien desee integrarse
+
+
 
 # Contacto
 Coordinador Dr. Luis Cruz [lcruzr@ipn.mx](mailto:lcruz@ipn.mx) |  [observatorio.ipnesiatec@gmail.com](mailto:observatorio.ipnesiatec@gmail.com)
