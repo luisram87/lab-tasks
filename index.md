@@ -13,14 +13,6 @@ Para el día lunes 26 de febrero 2024, necesito que cada integrante del laborato
 - Literature review on Stability of Masonry Vaults (Proyecto SAPPI Dr. Luis Carlos Cruz-Ramírez)
 
 ## 1. Research Projects
-  ### IPN ESIA TEC   
-- Settlement Monitoring of Government Building
-  - RPAS Applications
-  - Terrestrial LiDAR applications
-- Acoustic Assessment of Main Auditorium
-- Geometric analysis ESIA Mural
-- Geometric analysis of ESIA TEC Cafetería
-
   ### LABORATORY RESEARCH PROJECTS
 - ComputerVision Applied to Crack detections. [See More](https://luisram87.github.io/lab-tasks/details/CVCrack).
 - Deducir geometría de bóveda octapartita de Cuautinchán
@@ -28,6 +20,14 @@ Para el día lunes 26 de febrero 2024, necesito que cada integrante del laborato
 - Base de datos para clustering analysis Alcaldía Iztapalapa
 - Seismic Risk Assessment of Dwelling with CENAPRED Guide: Computational Application Dev
 - Flood Risk Assessment in IPN ESIA TEC
+  
+  ### IPN ESIA TEC RESEARCH PROJECTS
+- Settlement Monitoring of Government Building
+  - RPAS Applications
+  - Terrestrial LiDAR applications
+- Acoustic Assessment of Main Auditorium
+- Geometric analysis ESIA Mural
+- Geometric analysis of ESIA TEC Cafetería
 
 ## 2. Drawing plans from 3d Point Cloud
 - As-Built Architectural Plans:
