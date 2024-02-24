@@ -8,8 +8,8 @@ Para el día lunes 26 de febrero 2024, necesito que cada integrante del laborato
 
 # Actividades 2024
 ## 0. Priority activities
-- Realizar el registro del Ex-Teresa en Cyclone (Proyecto SAPPI Mtro. Ricardo Lozano-Gálvez) 
-- Literature review on Stability of Masonry Vaults (Proyecto SAPPI Dr. Luis Carlos Cruz-Ramírez)
+- Realizar el registro del Ex-Teresa en Cyclone (Proyecto SAPPI 2024 Mtro. Ricardo Lozano-Gálvez) 
+- Literature review on Stability of Masonry Vaults (Proyecto SAPPI 2024 Dr. Luis Carlos Cruz-Ramírez)
 - Proyectar el edificio de posgrado IPN ESIA TEC
 - Registro de nubes de puntos exteriores (RPAS) + interiores (TLS) del edificio de cuautinchan)
 
