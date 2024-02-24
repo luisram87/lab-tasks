@@ -2,18 +2,32 @@
 
 by _Luis Carlos Cruz-Ramírez_
 
-## Alvaro
+Enseguida se muestra una lista de actividades pendientes del laboratorio. A la brevedad posible, cada integrante adquiera una de las actividades de la lista para desarrollarlas y concluirlas.
+
+## Actividades
+- Realizar el regisrto del Ex-Terersa.
+- Guía de uso manipulación y dibujo de nube de puntos en Autodesk Revit
+- Guía de dibujo y manipulación de nubes de puntos desde AutoCAD
+- Guía de uso de Cyclone 9
 - Tlalmanalco limpieza de nube y elaboración de proyecciones
 - Nube de puntos de Regina 143
 - Rendering Blender 3D
+- Proyectar el edificio de posgrado IPN ESIA TEC
+- Crear Planos as-built Exteresa (sólo una vez que esté concluido el registro del edificio)
+- Crear planos as-built de Tecali
+- Crear planos as-built de Cuautinchan
+- 
+# Literature reviews
+- Infrared Thermography Literature Review
+- 3D print with PLA
+- 3d print with Concrete
+- How to face decarbonization from architectural discipline?
 
+Actividades asignadas
 ## Monse
-- Guía de uso manipulación y dibujo de nube de puntos en Revit
-- Despiece de bóveda de crucería Cuautinchán
+- Proyección de planos en CAD de Exteresa desde PDF
 
 ## Adrian
-- Infrared Thermography Literature Review 
-- Drawing and manipulations of Point Cloud in AutoCAD
 
 ## Valentín
 - Registro de nube de puntos de Laboratorio de Estructuras
@@ -30,7 +44,7 @@ by _Luis Carlos Cruz-Ramírez_
 ## Francisco
 - Sistema de información geográfico (SIG) de Cuautinchán
 - Continuar prácticas de Flood Risk Analysis QGIS-HECRAS
-- Crear planos as-built de Tecali.
+
 
 ## Claudia
 - FEM Literature Review
