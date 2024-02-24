@@ -31,7 +31,7 @@ Para el día lunes 26 de febrero 2024, necesito que cada integrante del laborato
 
 ## 2. Drawing plans from 3d Point Cloud
 - As-Built Architectural Plans:
-  - Crear Planos as-built Exteresa (sólo una vez que esté concluido el registro del edificio) Ver sección **0. Priority activities**
+  - Crear Planos as-built Exteresa (Se requiere que primero esté concluido el registro del edificio)
   - Crear planos as-built de Tecali
   - Crear planos as-built de Cuautinchan
 
