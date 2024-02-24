@@ -4,10 +4,10 @@ Coordinador: _Dr. Luis Carlos Cruz-Ramírez_
 
 Enseguida se muestra una lista de actividades pendientes por realizar en el Laboratorio de Patrimonio IPN ESIA TEC. 
 Para el día lunes 26 de febrero 2024, necesito que cada integrante del laboratorio adquiera al menos una de las actividades de la lista para desarrollarlas y concluirlas a la brevedad posible. Por favor indicarme para actualizar este sitio. 
-**Nota: Reportes de avances semanales en una cuartilla deberán estar alojados en la carpeta asignada en Drive.**
+**Nota: Los reportes de avances semanales con extensión de una cuartilla deberán estar alojados en la carpeta asignada en Drive.**
 
 # Actividades 2024
-0. Priority activities
+# 0. Priority activities
 - Realizar el registro del Ex-Teresa en Cyclone (Proyecto SAPPI Mtro. Ricardo Lozano-Gálvez)
 - Proyectar el edificio de posgrado IPN ESIA TEC
 - Literature review on Stability of Masonry Vaults (Proyecto SAPPI Dr. Luis Carlos Cruz-Ramírez)
@@ -89,5 +89,4 @@ Para el día lunes 26 de febrero 2024, necesito que cada integrante del laborato
 - Indicar quien desee integrarse
 
 # Contacto
-[Luis Cruz](lcruz@ipn.mx)
-[observatorio.ipnesiatec@gmail.com](mailto:observatorio.ipnesiatec@gmail.com)
+Coordinador Dr. Luis Cruz [lcruzr@ipn.mx](mailto:lcruz@ipn.mx) |  [observatorio.ipnesiatec@gmail.com](mailto:observatorio.ipnesiatec@gmail.com)
