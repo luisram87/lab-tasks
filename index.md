@@ -68,12 +68,14 @@ Para el día lunes 26 de febrero 2024, necesito que cada integrante del laborato
 ## Adal Esquivel
 - Generar contenido para impresión 3D con PLA  (Proyecto SAPPI Dr. Luis Carlos Cruz-Ramírez)
 
-## Israel
-
 ## Diego
 - Registro de nubes de puntos de Ex-teresa
 
+## Israel
+- Por asignar
+
 ## Marco 
+-Por asignar
 
 ## Monse
 - Proyección de planos en CAD de Ex-teresa desde PDF (Proyecto SAPPI Mtro. Ricardo Lozano-Gálvez)
