@@ -102,9 +102,6 @@ Para el día lunes 26 de febrero 2024, necesito que cada integrante del laborato
 - Indicar lista de necesidades para el coloquio de estudiantes del programa Maestría en Ciencias en Arquitectura y Urbanismo IPN ESIA TEC
 - Acabar su tesis de maestría.
 
-## TEAM Code Developer
-- Indicar quien desee integrarse
-
 
 
 # Contacto
