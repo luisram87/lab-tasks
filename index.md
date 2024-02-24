@@ -1,98 +1,93 @@
 ## Lab-Task site
 
-by _Luis Carlos Cruz-Ramírez_
+Coordinador: _Dr. Luis Carlos Cruz-Ramírez_
 
-Enseguida se muestra una lista de actividades pendientes del laboratorio. A la brevedad posible, cada integrante adquiera una de las actividades de la lista para desarrollarlas y concluirlas.
+Enseguida se muestra una lista de actividades pendientes por realizar en el Laboratorio de Patrimonio IPN ESIA TEC. 
+Para el día lunes 26 de febrero 2024, necesito que cada integrante del laboratorio adquiera al menos una de las actividades de la lista para desarrollarlas y concluirlas a la brevedad posible. Por favor indicarme para actualizar este sitio. 
+**Nota: Reportes de avances semanales en una cuartilla deberán estar alojados en la carpeta asignada en Drive.**
 
-## Actividades
-- Realizar el regisrto del Ex-Terersa.
-- Guía de uso manipulación y dibujo de nube de puntos en Autodesk Revit
-- Guía de dibujo y manipulación de nubes de puntos desde AutoCAD
-- Guía de uso de Cyclone 9
-- Tlalmanalco limpieza de nube y elaboración de proyecciones
-- Nube de puntos de Regina 143
-- Rendering Blender 3D
+# Actividades 2024
+0. Priority activities
+- Realizar el registro del Ex-Teresa en Cyclone (Proyecto SAPPI Mtro. Ricardo Lozano-Gálvez)
 - Proyectar el edificio de posgrado IPN ESIA TEC
-- Crear Planos as-built Exteresa (sólo una vez que esté concluido el registro del edificio)
-- Crear planos as-built de Tecali
-- Crear planos as-built de Cuautinchan
-- 
-# Literature reviews
-- Infrared Thermography Literature Review
-- 3D print with PLA
-- 3d print with Concrete
-- How to face decarbonization from architectural discipline?
+- Literature review on Stability of Masonry Vaults (Proyecto SAPPI Dr. Luis Carlos Cruz-Ramírez)
 
-Actividades asignadas
-## Monse
-- Proyección de planos en CAD de Exteresa desde PDF
-
-## Adrian
-
-## Valentín
-- Registro de nube de puntos de Laboratorio de Estructuras
-- Registro de nube aerea y nube terrestre de ESIA
-
-## Liz
-- Registro de nube de puntos de cafetería (interior - exterior).
-- Registro de nube de puntos de Laboratorio de Mecánica de suelos
-- Deducir geometría de bóveda octapartita de Cuautinchán
-- Base de datos para clustering analysis
-  - Alcaldía Miguel Hidalgo
-  - Alcaldía Iztapalapa
-
-## Francisco
-- Sistema de información geográfico (SIG) de Cuautinchán
-- Continuar prácticas de Flood Risk Analysis QGIS-HECRAS
-
-
-## Claudia
-- FEM Literature Review
-
-## Cinthia
-- Continuar prácticas de MATLAB
-- ComputerVision Applied to Crack detections. [See More](https://luisram87.github.io/lab-tasks/details/CVCrack).
-- Continuar prácticas de Flood Risk Analysis QGIS-HECRAS
-
-
-## TEAM Flood Risk (Francisco, Cinthia, Jessica y Omar)
-- Flood Risk Analysis QGIS-HECRAS
-- Lista de colonias en CDMX
-- Micro-scale Flood Risk Assessment in Mexico City.
-
-## TEAM MATLAB (Cinthia, Aylen y Claudia)
-- Continuar prácticas de MATLAB
-- Seismic Risk Assessment of Dwelling with CENAPRED Guide: Computational Application Dev
-
------------------------------------
------------------------------------
-## To do list
-
-1. Guides and manuals
-- [Introduction to GitHub](https://luisram87.github.io/lab-tasks/details/github)
-- Open Sources applications friendly guide
-  - [MeshLab](https://www.meshlab.net) 
-  - [Inkscape](https://inkscape.org)
-  - Video editions [OpenShot](https://www.openshot.org)
-
-2. Developing projects
-- As-Built Architectural Plans:
-  - (a) Tecali, Puebla.
-  - (b) Cuautinchan, Puebla.
-- Natural Ventilation Simulation with Open Computer Fluid Dynamic (CFD)
-- Computational Clustering Applied to Built Heritage of Queretaro
-- Digital Reconstruction of Built Heritage of XVI Century
-- Virtual Reality application to Risk Mitigation
-
-3. IPN ESIA TEC Projects 
+1. Research Projects
+  ## IPN ESIA TEC   
 - Settlement Monitoring of Government Building
   - RPAS Applications
   - Terrestrial LiDAR applications
 - Acoustic Assessment of Main Auditorium
 - Geometric analysis ESIA Mural
-- Geometric analysis of School Cafeteria
+- Geometric analysis of ESIA TEC Cafetería
+
+  ## LABORATORY RESEARCH PROJECTS
+- ComputerVision Applied to Crack detections. [See More](https://luisram87.github.io/lab-tasks/details/CVCrack).
+- Deducir geometría de bóveda octapartita de Cuautinchán
+- Sistema de información geográfico (SIG) de Cuautinchán
+- Base de datos para clustering analysis Alcaldía Iztapalapa
+- Seismic Risk Assessment of Dwelling with CENAPRED Guide: Computational Application Dev
 - Flood Risk Assessment in IPN ESIA TEC
 
+2. Drawing plans from 3d Point Cloud
+- As-Built Architectural Plans:
+  - Crear Planos as-built Exteresa (sólo una vez que esté concluido el registro del edificio) Ver sección **0. Priority activities**
+  - Crear planos as-built de Tecali
+  - Crear planos as-built de Cuautinchan
 
-### Contacto
+3. Guias, manuales y/o video tutoriales
+- [Introduction to GitHub](https://luisram87.github.io/lab-tasks/details/github)
+- Open Sources applications friendly guide
+  - [MeshLab](https://www.meshlab.net)
+  - [Openshot](https://www.openshot.org)
+- Guía de uso de Cyclone 9
+- Guía de uso manipulación y dibujo de nube de puntos en Autodesk Revit
+- Guía de dibujo y manipulación de nubes de puntos desde Autodesk AutoCAD
+
+4. Registros de nubes de puntos
+- Registro de nube de puntos de Laboratorio de licenciatura IPN ESIA TEC
+- Registro de nube de puntos de cafetería (interior - exterior)
+
+5. Literature reviews
+- How to face decarbonization from architectural discipline?
+- 3D print with PLA
+- 3d print with Concrete
+- Infrared Thermography Literature Review
+- Application of parametric design in architecture
+
+# Actividades asignadas
+
+## Emilio
+- Seguimiento a la web IPN ESIA TEC (Proyecto SAPPI Mtro. Ricardo Lozano-Gálvez) (**Priority**)
+- JARVIS Virtual Assistant applied to architecture (Proyecto Laboratorio Dr. Luis Carlos Cruz-Ramírez)
+
+## María Fernanda
+- Crear contenido de divulgación diario para IG.
+- Crear contenido para la web
+
+## Adal Esquivel
+- Generar contenido para impresión 3D con PLA  (Proyecto SAPPI Dr. Luis Carlos Cruz-Ramírez)
+
+## Israel
+
+## Diego
+- Registro de nubes de puntos de Ex-teresa
+
+## Marco 
+
+## Monse
+- Proyección de planos en CAD de Ex-teresa desde PDF (Proyecto Mtro. Ricardo Lozano-Gálvez)
+
+## Valentín
+- Reporte de investigación: Las soluciones a los problemas comunes identificados en el registro de nube de puntos. (Proyecto Dr. Luis Carlos Cruz-Ramírez)
+ 
+## Cinthia
+- Reporte de investigación: Clúster analysis applied to facades classification of MH  (Proyecto Dr. Luis Carlos Cruz-Ramírez)
+
+## TEAM Code Developer
+- Luis Carlos Cruz Ramírez
+- Indicar quien desee integrarse
+
+# Contacto
+[Luis Cruz](lcruz@ipn.mx)
 [observatorio.ipnesiatec@gmail.com](mailto:observatorio.ipnesiatec@gmail.com)
