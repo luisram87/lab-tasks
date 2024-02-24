@@ -13,7 +13,7 @@ Para el día lunes 26 de febrero 2024, necesito que cada integrante del laborato
 - Literature review on Stability of Masonry Vaults (Proyecto SAPPI Dr. Luis Carlos Cruz-Ramírez)
 
 ## 1. Research Projects
-  ### LABORATORY RESEARCH PROJECTS
+### LABORATORY RESEARCH PROJECTS
 - ComputerVision Applied to Crack detections. [See More](https://luisram87.github.io/lab-tasks/details/CVCrack).
 - Deducir geometría de bóveda octapartita de Cuautinchán
 - Sistema de información geográfico (SIG) de Cuautinchán
@@ -21,7 +21,7 @@ Para el día lunes 26 de febrero 2024, necesito que cada integrante del laborato
 - Seismic Risk Assessment of Dwelling with CENAPRED Guide: Computational Application Dev
 - Flood Risk Assessment in IPN ESIA TEC
   
-  ### IPN ESIA TEC RESEARCH PROJECTS
+### IPN ESIA TEC RESEARCH PROJECTS
 - Settlement Monitoring of Government Building
   - RPAS Applications
   - Terrestrial LiDAR applications
