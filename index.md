@@ -8,18 +8,19 @@ Para el día lunes 26 de febrero 2024, necesito que cada integrante del laborato
 
 # Actividades 2024
 ## 0. Priority activities
-- Realizar el registro del Ex-Teresa en Cyclone (Proyecto SAPPI Mtro. Ricardo Lozano-Gálvez)
-- Proyectar el edificio de posgrado IPN ESIA TEC
+- Realizar el registro del Ex-Teresa en Cyclone (Proyecto SAPPI Mtro. Ricardo Lozano-Gálvez) 
 - Literature review on Stability of Masonry Vaults (Proyecto SAPPI Dr. Luis Carlos Cruz-Ramírez)
+- Proyectar el edificio de posgrado IPN ESIA TEC
+- Registro de nubes de puntos exteriores (RPAS) + interiores (TLS) del edificio de cuautinchan)
 
 ## 1. Research Projects
 ### LABORATORY RESEARCH PROJECTS
+- Deducir geometría de bóveda octapartita de Cuautinchán  (Proyecto SAPPI Dr. Luis Carlos Cruz-Ramírez)
 - ComputerVision Applied to Crack detections. [See More](https://luisram87.github.io/lab-tasks/details/CVCrack).
-- Deducir geometría de bóveda octapartita de Cuautinchán
-- Sistema de información geográfico (SIG) de Cuautinchán
 - Base de datos para clustering analysis Alcaldía Iztapalapa
 - Seismic Risk Assessment of Dwelling with CENAPRED Guide: Computational Application Dev
 - Flood Risk Assessment in IPN ESIA TEC
+- Sistema de información geográfico (SIG) de Cuautinchán (Colaboración con proyecto SAPPI DR. Milton Montejano Castillo)
   
 ### IPN ESIA TEC RESEARCH PROJECTS
 - Settlement Monitoring of Government Building
@@ -46,7 +47,7 @@ Para el día lunes 26 de febrero 2024, necesito que cada integrante del laborato
 
 ## 4. Registros de nubes de puntos
 - Registro de nube de puntos de Laboratorio de licenciatura IPN ESIA TEC
-- Registro de nube de puntos de cafetería (interior - exterior)
+- Registro de nube de puntos de cafetería (interior - exterior) (TLS)
 
 ## 5. Literature reviews
 - How to face decarbonization from architectural discipline?
@@ -63,13 +64,13 @@ Para el día lunes 26 de febrero 2024, necesito que cada integrante del laborato
 
 ## María Fernanda
 - Crear contenido de divulgación diario para IG.
-- Crear contenido para la web
+- Crear contenido para la web (Colaboración a Emilio)
 
 ## Adal Esquivel
 - Generar contenido para impresión 3D con PLA  (Proyecto SAPPI Dr. Luis Carlos Cruz-Ramírez)
 
 ## Diego
-- Registro de nubes de puntos de Ex-teresa
+- Por confirmar: Registro de nubes de puntos de Ex-teresa (Proyecto SAPPI Mtro. Ricardo Lozano-Gálvez)
 
 ## Israel
 - Por asignar
@@ -80,14 +81,20 @@ Para el día lunes 26 de febrero 2024, necesito que cada integrante del laborato
 ## Monse
 - Proyección de planos en CAD de Ex-teresa desde PDF (Proyecto SAPPI Mtro. Ricardo Lozano-Gálvez)
 
+## Shendell Cruz
+- Reporete de investigación: Alterntarivas de registro de nubes de puntos con TLS. Proyecto SAPPI 2023 Dr. Luis Carlos Cruz-Ramírez)
+
+## Alvaro Camargo
+- Reporte de investigación: Aplicación del diseño paramétrico para el diseño de cubiertas de bóvedas colapasadas. (Proyecto SAPPI 2023 Dr. Luis Carlos Cruz-Ramírez)
+- **Urge que te des de alta en el sistema.**
+ 
 ## Valentín
-- Reporte de investigación: Las soluciones a los problemas comunes identificados en el registro de nube de puntos. (Proyecto SAPPI Dr. Luis Carlos Cruz-Ramírez)
+- Reporte de investigación: Las soluciones a los problemas comunes identificados en el registro de nube de puntos. (Proyecto SAPPI 2023 Dr. Luis Carlos Cruz-Ramírez)
  
 ## Cinthia
-- Reporte de investigación: Clúster analysis applied to facades classification of MH. (Proyecto SAPPI Dr. Luis Carlos Cruz-Ramírez)
+- Reporte de investigación: Clúster analysis applied to facades classification of MH. (Proyecto SAPPI 2023 Dr. Luis Carlos Cruz-Ramírez)
 
 ## TEAM Code Developer
-- Luis Carlos Cruz Ramírez
 - Indicar quien desee integrarse
 
 # Contacto
