@@ -7,13 +7,13 @@ Para el día lunes 26 de febrero 2024, necesito que cada integrante del laborato
 **Nota: Los reportes de avances semanales con extensión de una cuartilla deberán estar alojados en la carpeta asignada en Drive.**
 
 # Actividades 2024
-# 0. Priority activities
+## 0. Priority activities
 - Realizar el registro del Ex-Teresa en Cyclone (Proyecto SAPPI Mtro. Ricardo Lozano-Gálvez)
 - Proyectar el edificio de posgrado IPN ESIA TEC
 - Literature review on Stability of Masonry Vaults (Proyecto SAPPI Dr. Luis Carlos Cruz-Ramírez)
 
-# 1. Research Projects
-  ## IPN ESIA TEC   
+## 1. Research Projects
+  ### IPN ESIA TEC   
 - Settlement Monitoring of Government Building
   - RPAS Applications
   - Terrestrial LiDAR applications
@@ -21,7 +21,7 @@ Para el día lunes 26 de febrero 2024, necesito que cada integrante del laborato
 - Geometric analysis ESIA Mural
 - Geometric analysis of ESIA TEC Cafetería
 
-  ## LABORATORY RESEARCH PROJECTS
+  ### LABORATORY RESEARCH PROJECTS
 - ComputerVision Applied to Crack detections. [See More](https://luisram87.github.io/lab-tasks/details/CVCrack).
 - Deducir geometría de bóveda octapartita de Cuautinchán
 - Sistema de información geográfico (SIG) de Cuautinchán
@@ -29,13 +29,13 @@ Para el día lunes 26 de febrero 2024, necesito que cada integrante del laborato
 - Seismic Risk Assessment of Dwelling with CENAPRED Guide: Computational Application Dev
 - Flood Risk Assessment in IPN ESIA TEC
 
-# 2. Drawing plans from 3d Point Cloud
+## 2. Drawing plans from 3d Point Cloud
 - As-Built Architectural Plans:
   - Crear Planos as-built Exteresa (sólo una vez que esté concluido el registro del edificio) Ver sección **0. Priority activities**
   - Crear planos as-built de Tecali
   - Crear planos as-built de Cuautinchan
 
-# 3. Guias, manuales y/o video tutoriales
+## 3. Guias, manuales y/o video tutoriales
 - [Introduction to GitHub](https://luisram87.github.io/lab-tasks/details/github)
 - Open Sources applications friendly guide
   - [MeshLab](https://www.meshlab.net)
@@ -44,11 +44,11 @@ Para el día lunes 26 de febrero 2024, necesito que cada integrante del laborato
 - Guía de uso manipulación y dibujo de nube de puntos en Autodesk Revit
 - Guía de dibujo y manipulación de nubes de puntos desde Autodesk AutoCAD
 
-# 4. Registros de nubes de puntos
+## 4. Registros de nubes de puntos
 - Registro de nube de puntos de Laboratorio de licenciatura IPN ESIA TEC
 - Registro de nube de puntos de cafetería (interior - exterior)
 
-# 5. Literature reviews
+## 5. Literature reviews
 - How to face decarbonization from architectural discipline?
 - 3D print with PLA
 - 3d print with Concrete
@@ -76,13 +76,13 @@ Para el día lunes 26 de febrero 2024, necesito que cada integrante del laborato
 ## Marco 
 
 ## Monse
-- Proyección de planos en CAD de Ex-teresa desde PDF (Proyecto Mtro. Ricardo Lozano-Gálvez)
+- Proyección de planos en CAD de Ex-teresa desde PDF (Proyecto SAPPI Mtro. Ricardo Lozano-Gálvez)
 
 ## Valentín
-- Reporte de investigación: Las soluciones a los problemas comunes identificados en el registro de nube de puntos. (Proyecto Dr. Luis Carlos Cruz-Ramírez)
+- Reporte de investigación: Las soluciones a los problemas comunes identificados en el registro de nube de puntos. (Proyecto SAPPI Dr. Luis Carlos Cruz-Ramírez)
  
 ## Cinthia
-- Reporte de investigación: Clúster analysis applied to facades classification of MH  (Proyecto Dr. Luis Carlos Cruz-Ramírez)
+- Reporte de investigación: Clúster analysis applied to facades classification of MH. (Proyecto SAPPI Dr. Luis Carlos Cruz-Ramírez)
 
 ## TEAM Code Developer
 - Luis Carlos Cruz Ramírez
