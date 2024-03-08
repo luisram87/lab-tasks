@@ -62,21 +62,15 @@ Para el día lunes 26 de febrero 2024, necesito que cada integrante del laborato
 - Seguimiento a la web IPN ESIA TEC (Proyecto SAPPI Mtro. Ricardo Lozano-Gálvez) (**Priority**)
 - JARVIS Virtual Assistant applied to architecture (Proyecto Laboratorio Dr. Luis Carlos Cruz-Ramírez)
 
-## María Fernanda Ocañana
-- Crear contenido de divulgación diario para IG.
-- Crear contenido para la web (Colaboración a Emilio)
-
-## Adal Esquivel
-- Generar contenido para impresión 3D con PLA  (Proyecto SAPPI Dr. Luis Carlos Cruz-Ramírez)
-
 ## Diego Isla
-- Por confirmar: Registro de nubes de puntos de Ex-teresa (Proyecto SAPPI Mtro. Ricardo Lozano-Gálvez)
+- Registro de nubes de puntos de Ex-teresa (Proyecto SAPPI Mtro. Ricardo Lozano-Gálvez)
 
 ## Israel Chacón
-- Por asignar
+- Proyección de planos del Edificio BD
 
 ## Marco Ruiz
--Por asignar
+- Proyección de planos del Edificio BD
+- Fine tuning for LLM
 
 ## Monserrat García
 - Proyección de planos en CAD de Ex-teresa desde PDF (Proyecto SAPPI Mtro. Ricardo Lozano-Gálvez)
@@ -86,7 +80,6 @@ Para el día lunes 26 de febrero 2024, necesito que cada integrante del laborato
 
 ## Alvaro Camargo
 - Reporte de investigación: Aplicación del diseño paramétrico para el diseño de cubiertas de bóvedas colapasadas. (Proyecto SAPPI 2023 Dr. Luis Carlos Cruz-Ramírez)
-- **Urge que te des de alta en el sistema.**
  
 ## Valentín Uribe
 - Reporte de investigación: Las soluciones a los problemas comunes identificados en el registro de nube de puntos. (Proyecto SAPPI 2023 Dr. Luis Carlos Cruz-Ramírez)
@@ -101,8 +94,13 @@ Para el día lunes 26 de febrero 2024, necesito que cada integrante del laborato
 ## Eduardo
 - Indicar lista de necesidades para el coloquio de estudiantes del programa Maestría en Ciencias en Arquitectura y Urbanismo IPN ESIA TEC
 - Acabar su tesis de maestría.
+- 
+## María Fernanda Ocañana
+- Crear contenido de divulgación diario para IG.
+- Crear contenido para la web (Colaboración a Emilio)
 
-
+## Adal Esquivel
+- Generar contenido para impresión 3D con PLA
 
 # Contacto
 Coordinador Dr. Luis Cruz [lcruzr@ipn.mx](mailto:lcruz@ipn.mx) |  [observatorio.ipnesiatec@gmail.com](mailto:observatorio.ipnesiatec@gmail.com)
